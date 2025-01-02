@@ -19,7 +19,10 @@ const RecentProjects = () => {
             className="lg:min-h-[32.5rem] h-[25rem] flex items-center justify-center sm:w-96 w-[80vw]"
             key={item.id}
           >
-            <PinContainer title="https://github.com/bekizod" href="">
+            <PinContainer
+              title="https://github.com/bekizod"
+              href="https://www.linkedin.com/in/bereket-wamanuel-73b9712a5"
+            >
               <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
                 <div
                   className="relative w-full h-full overflow-hidden lg:rounded-3xl"
