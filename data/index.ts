@@ -76,7 +76,7 @@ export const projects = [
     des: "Ethiopian Orthodox Tewahdo Fasting Calendar.",
     img: "/bg-bahre.png",
     iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/fm.svg"],
-    link: "/https://bahre-hasab-bwbz.netlify.app/",
+    link: "https://bahre-hasab-bwbz.netlify.app/",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "Calendar Converter From Gregorian To Ethiopian and vise versa",
     img: "/bg-calendar.png",
     iconLists: ["/re.svg", "/tail.svg", "/c.svg"],
-    link: "/https://ethiopian-calendar-converter1.netlify.app",
+    link: "https://ethiopian-calendar-converter1.netlify.app",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "E-commerce site for Arabic Content.",
     img: "/bg-ec.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/fm.svg"],
-    link: "/https://dgcard.netlify.app",
+    link: "https://dgcard.netlify.app",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Admin dashboard for e-commerce app.",
     img: "/bg-admin.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
-    link: "/https://manage-dg-card.netlify.app/",
+    link: "https://manage-dg-card.netlify.app/",
   },
 ];
 
