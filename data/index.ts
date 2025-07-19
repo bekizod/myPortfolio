@@ -102,6 +102,46 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
     link: "https://manage-dg-card.netlify.app/",
   },
+  {
+    id: 5,
+    title: "Fenzo Events",
+    des: "Event Organizing and ordering web app",
+    img: "/bg-fenzo.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "https://fenzoevents.com.sa/",
+  },
+  {
+    id: 6,
+    title: "Fenzo Admin Dashboard Next.js",
+    des: "Admin dashboard for event organizing app.",
+    img: "/bg-fenzo-manag.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "https://con.fenzoevents.com.sa/",
+  },
+  {
+    id: 7,
+    title: "Admin Dashboard of Task Organize",
+    des: "Admin dashboard for task ordering app.",
+    img: "/bg-task-manag.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "https://manage-taskapp.netlify.app/",
+  },
+  {
+    id: 8,
+    title: "Blog Posting App",
+    des: "Platform For Blog Posting and Publishing",
+    img: "/bg-blog.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "https://blogsphere-v1.netlify.app/",
+  },
+  {
+    id: 9,
+    title: "Carement Garment",
+    des: "Ethiopian Garement E-commerce Site",
+    img: "/bg-carement.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "https://carement-fashions.netlify.app/#/",
+  },
 ];
 
 export const testimonials = [
