@@ -156,7 +156,7 @@ export const projects = [
     des: "Admin dashboard for task ordering app.",
     img: "/bg-tal.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://manage-tal3a.netlify.app/",
+    link: "https://tal3a-dashboard.vercel.app/",
   },
   {
     id: 12,
