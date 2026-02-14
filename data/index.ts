@@ -76,7 +76,7 @@ export const projects = [
     des: "Ethiopian Orthodox Tewahdo Fasting Calendar.",
     img: "/bg-bahre.png",
     iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/fm.svg"],
-    link: "https://bahre-hasab-bwbz.netlify.app/",
+    link: "https://bahre-hasab.netlify.app/",
   },
   {
     id: 2,
@@ -139,8 +139,32 @@ export const projects = [
     title: "Carement Garment",
     des: "Ethiopian Garement E-commerce Site",
     img: "/bg-carement.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
     link: "https://carement-fashions.netlify.app/#/",
+  },
+  {
+    id: 10,
+    title: "Voda-H2o Dashboard",
+    des: "Admin dashboard for water delivery service app.",
+    img: "/bg-voda.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://voda-h20.vercel.app",
+  },
+  {
+    id: 11,
+    title: "Tal3a Admin Dashboard Next.js",
+    des: "Admin dashboard for task ordering app.",
+    img: "/bg-tal.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://manage-tal3a.netlify.app/",
+  },
+  {
+    id: 12,
+    title: "Sparkle Solution",
+    des: "Online Learning Platform",
+    img: "/bg-sparkle.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://sparkle-chi.vercel.app/",
   },
 ];
 
